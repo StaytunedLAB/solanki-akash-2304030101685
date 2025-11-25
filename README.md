@@ -32,3 +32,63 @@ Start with our **[Documentation Index](./docs/index.md)** for comprehensive guid
 - Connect to [Discord](https://discord.com/invite/B8brHwTMf) Channel.
 
 We're glad to have you! Let's build something great together.
+
+
+
+
+
+
+🎯 1. Headings
+# Heading 1
+## Heading 2
+### Heading 3
+
+🎯 2. Bold & Italic
+**bold text**
+*italic text*
+
+🎯 3. Lists
+📌 Bullet List
+- Item one
+- Item two
+- Item three
+
+📌 Numbered List
+1. First
+2. Second
+3. Third
+
+🎯 4. Code
+Inline code:
+`print("Hello")`
+
+Code block:
+```python
+print("Hello World")
+```
+
+🎯 5. Blockquote
+> This is a quote
+
+🎯 6. Links
+[Open Google](https://google.com)
+
+🎯 7. Images
+![Alt text](image_url)
+
+🎯 8. Tables
+| Name  | Age |
+|-------|-----|
+| Akash | 20  |
+
+🎯 9. Checkboxes
+- [x] Task done
+- [ ] Task pending
+
+🎯 10. Divider Line
+---
+
+🎯 11. Emoji Support
+:smile:
+🔥 👍 🙂
+
