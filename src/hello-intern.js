@@ -37,3 +37,4 @@ let product ={
 console.log("Product Name:", product.name);
 console.log("Product Price:", product.price);
 console.log("Product Availability:", product.isAvailable);
+git
