@@ -74,6 +74,60 @@ Install these extensions to enhance your development experience:
 - [ ] Make your first commit
 - [ ] Push your changes to GitHub
 
+## 📋 Organizing GitHub Issues
+
+GitHub Issues are a great way to track your learning progress, but understanding how they work helps you stay organized.
+
+### Understanding Issue Numbers
+
+Issue numbers in GitHub are **sequential and permanent**. Once an issue is created with a number (e.g., #1, #2, #3), that number cannot be changed. If you create issues out of order (like creating Day 3 before Day 1), the numbers won't match the logical order.
+
+### How to Organize Your Issues
+
+While you can't change issue numbers, here are effective ways to organize them:
+
+#### 1. Use Labels
+Create labels like `day-1`, `day-2`, `day-3` to categorize your learning issues:
+- Go to **Issues** → **Labels** → **New label**
+- Color-code them for easy identification
+- Filter issues by label to see them in logical order
+
+#### 2. Use Milestones
+Group related issues into milestones:
+- Create milestones like "Week 1 Learning" or "JavaScript Basics"
+- Assign issues to milestones for better organization
+- Track completion percentage
+
+#### 3. Use GitHub Projects
+GitHub Projects provides a Kanban-style board:
+- Create columns like "To Do", "In Progress", "Completed"
+- Drag and drop issues to reorder them visually
+- Add custom fields for sorting
+
+#### 4. Issue Titles
+Use clear, sequential titles:
+- `Day 1: Introduction to JavaScript`
+- `Day 2: Variables and Data Types`
+- This makes sorting by title effective
+
+### Best Practice: Plan Before Creating
+
+To keep issues in order:
+1. Plan your learning topics first
+2. Create all issues in the correct sequence
+3. Use descriptive titles with day/topic numbers
+
+### Sorting Issues
+
+On the Issues page, you can sort by:
+- **Newest** / **Oldest** - by creation date
+- **Most commented** / **Least commented**
+- **Recently updated**
+
+Use the search bar with filters:
+- `is:issue is:open sort:created-asc` - oldest first
+- `is:issue label:day-1` - filter by label
+
 ## 📖 Additional Resources
 
 ### GitHub
@@ -81,6 +135,9 @@ Install these extensions to enhance your development experience:
 - **[GitHub Docs](https://docs.github.com/en)** - Complete documentation
 - **[GitHub Community](https://github.community/)** - Forums and discussions
 - **[GitHub Learning Lab](https://lab.github.com/)** - Interactive courses
+- **[About Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)** - Official guide to GitHub Issues
+- **[Using Labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)** - Organizing with labels
+- **[About Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)** - Kanban-style project boards
 
 ### VS Code
 
