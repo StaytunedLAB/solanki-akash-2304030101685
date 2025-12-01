@@ -88,7 +88,7 @@ While you can't change issue numbers, here are effective ways to organize them:
 
 #### 1. Use Labels
 Create labels like `day-1`, `day-2`, `day-3` to categorize your learning issues:
-- Go to **Issues** → **Labels** → **New label**
+- Go to your repository → **Issues** tab → **Labels** → **New label**
 - Color-code them for easy identification
 - Filter issues by label to see them in logical order
 
@@ -125,8 +125,8 @@ On the Issues page, you can sort by:
 - **Recently updated**
 
 Use the search bar with filters:
-- `is:issue is:open sort:created-asc` - oldest first
-- `is:issue label:day-1` - filter by label
+- `is:issue is:open sort:created-asc` - Shows open issues sorted by creation date (oldest first)
+- `is:issue label:day-1` - Shows all issues with the day-1 label
 
 ## 📖 Additional Resources
 
