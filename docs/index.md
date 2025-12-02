@@ -23,6 +23,7 @@ The Getting Started guide includes comprehensive links to:
 - GitHub official documentation and interactive courses
 - VS Code tutorials and extension recommendations
 - Video tutorials for visual learners
+- **Organizing GitHub Issues** - How to use labels, milestones, and projects to organize your work
 - Additional development resources
 
 ## 🗂️ File Structure
