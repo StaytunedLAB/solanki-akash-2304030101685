@@ -55,6 +55,6 @@ This document tracks the learning progress of documentation topics and concepts 
 
 ---
 
-**Last updated:** December 2025
+**Last updated:** December 2, 2025
 
 **Student:** Solanki Akash Devsibhai
