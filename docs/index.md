@@ -8,6 +8,7 @@ Welcome to the StaytunedLABS Internship documentation! This index provides quick
 |----------|-------------|------|
 | **Getting Started Guide** | Essential setup for GitHub and VS Code | [getting-started.md](getting-started.md) |
 | **Setup Instructions** | Project-specific setup and configuration | [SETUP.md](SETUP.md) |
+| **Learning Progress** | Track completed learning topics | [LEARNING_PROGRESS.md](LEARNING_PROGRESS.md) |
 
 ## 📖 Documentation Overview
 
@@ -32,7 +33,8 @@ The Getting Started guide includes comprehensive links to:
 docs/
 ├── index.md              # This documentation index
 ├── getting-started.md    # GitHub & VS Code setup guide
-└── SETUP.md             # Project setup instructions
+├── SETUP.md              # Project setup instructions
+└── LEARNING_PROGRESS.md  # Track completed learning topics
 ```
 
 ## ❓ Need Help?
