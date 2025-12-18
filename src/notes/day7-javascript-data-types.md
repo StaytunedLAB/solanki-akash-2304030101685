@@ -337,7 +337,7 @@ console.log(now.getMonth());         // Month (0-11)
 console.log(now.getDate());          // Day of month
 console.log(now.toISOString());      // ISO format
 
-let specificDate = new Date("2025-12-18");
+let specificDate = new Date("2024-01-15");
 console.log(specificDate);
 ```
 
@@ -546,7 +546,7 @@ let shallowCopy = { ...original };
 shallowCopy.skills.push("Node");
 console.log(original.skills); // ["JS", "React", "Node"] (modified!)
 
-// Deep copy
+// Deep copy (Note: JSON method has limitations - doesn't work with functions, undefined, symbols, or circular references)
 let deepCopy = JSON.parse(JSON.stringify(original));
 deepCopy.skills.push("Python");
 console.log(original.skills); // ["JS", "React", "Node"] (unchanged)
